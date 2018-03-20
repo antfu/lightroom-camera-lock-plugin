@@ -4,9 +4,9 @@ This is an open source Lightroom plugin for marking "locked" file from your came
 
 ## Installation
 
-Simple download this repo and unzip it.
-
 The plugin is installed via the Lightroom plugin manager.
+
+[Download](https://github.com/antfu/lightroom-camera-lock-plugin/archive/master.zip) this repo and unzip it.
 
 1. Move `camera-lock.lrplugin` to a convenient location of your own choosing.
 2. Open Lightroom's plugin manager from the File menu.
@@ -23,7 +23,7 @@ Click the "Add" button.
 >
 > Format: JPG & RAW
 
-If you are able to test out on other OS/Camera model please let me know, thanks. 
+If you are able to test out on other OS/Camera please let me know, thanks. 
 
 ## Similar Projects
 
